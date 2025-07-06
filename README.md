@@ -6,4 +6,4 @@ Reverse engineered based on the real cable with minor differences. The goal is t
 
 
 > **UNTESTED!** The prototype cables have not arrived and therefore the design is UNTESTED. Any changes will be uploaded so keep an eye out! 
-
+> NOTE!! SCHEMATIC HAS THE ZIF 40 PIN EDGE INVERTED!! BOARD DRAWING SHOULD BE CORRECT BUT IS UNTESTED. WILL BE UPDATED SOON.
